@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DevOps Learning\\gitapp\\gitapp.csproj": {}
+    "D:\\git1\\gitapp\\gitapp\\gitapp.csproj": {}
   },
   "projects": {
-    "D:\\DevOps Learning\\gitapp\\gitapp.csproj": {
+    "D:\\git1\\gitapp\\gitapp\\gitapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DevOps Learning\\gitapp\\gitapp.csproj",
+        "projectUniqueName": "D:\\git1\\gitapp\\gitapp\\gitapp.csproj",
         "projectName": "gitapp",
-        "projectPath": "D:\\DevOps Learning\\gitapp\\gitapp.csproj",
+        "projectPath": "D:\\git1\\gitapp\\gitapp\\gitapp.csproj",
         "packagesPath": "C:\\Users\\gozik\\.nuget\\packages\\",
-        "outputPath": "D:\\DevOps Learning\\gitapp\\obj\\",
+        "outputPath": "D:\\git1\\gitapp\\gitapp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

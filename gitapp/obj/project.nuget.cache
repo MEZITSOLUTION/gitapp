@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yLP4uqka2u9xh4SWaXuxVOmIlLJEMOp5+OWJqUcvkf0egB+0NgtxJQ8sFvPJS4gdht9jNHYAdZOIkwBOvzShpQ==",
+  "dgSpecHash": "UjNNJaq36fZsmuIWLBa+QU0UhGu2HayntZSl5Zqbc+D75hQhqxIjxaA724VYmz1/jXdpcOAx1gthdkWf1OZuVw==",
   "success": true,
-  "projectFilePath": "D:\\DevOps Learning\\gitapp\\gitapp.csproj",
+  "projectFilePath": "D:\\git1\\gitapp\\gitapp\\gitapp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
